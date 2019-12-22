@@ -1,6 +1,6 @@
-import styled from "styled-components"
+import styled from 'styled-components'
 
-import { Link } from "gatsby"
+import { Link } from 'gatsby'
 
 export const MenuLinksWrapper = styled.nav``
 
